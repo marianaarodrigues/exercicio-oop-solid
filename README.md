@@ -1,1 +1,1 @@
-# exercicio-oop-solid
+Exercício Prático sobre Programação Orientada a Objetos e princípios SOLID (curso de Backend JS do programa Bolsa Futuro Digital).
